@@ -1,0 +1,14 @@
+# コア依存パッケージ
+numpy>=1.21.0
+plotly>=5.0.0
+google-generativeai>=0.3.0
+python-dotenv>=0.19.0
+
+# Raspberry Pi 固有の依存パッケージ (オプション)
+# 以下のパッケージはRaspberry Pi上でのみインストールしてください
+# adafruit-circuitpython-servokit
+# adafruit-circuitpython-busdevice
+# adafruit-circuitpython-register
+
+# 開発用パッケージ (オプション)
+# pytest>=6.0.0
